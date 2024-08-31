@@ -1,3 +1,4 @@
 traefik/whoami:v1.10
 nginx
 tomcat
+hello-world
